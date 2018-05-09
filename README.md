@@ -1,6 +1,5 @@
 # Crawler-for-Attack-on-Titan
 
-======== 
 This is to crawl [Attach on Titan](https://en.wikipedia.org/wiki/Attack_on_Titan) comics for personal non-profit usage.
 
 #### dependencies
